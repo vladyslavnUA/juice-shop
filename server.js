@@ -1,7 +1,7 @@
 /*
  * Copyright (c) 2014-2020 Bjoern Kimminich.
  * SPDX-License-Identifier: MIT
- */ 
+ */
 
 const path = require('path')
 const fs = require('fs')
